@@ -33,4 +33,4 @@
 >> ![Merge-5](https://github.com/uliviaembun/Photos/blob/main/Screenshot%20(325).png)
 >> - Jika branch tidak bisa dimasukkan otomatis ke dalam main branch atau istilahnya terjadi konflik, pull request tetap bisa dilakukan. Konflik di sini terjadi karena pada beberapa baris yang sama terdapat isi yang berbeda. Sehingga pada akhirnya nanti sang pemilik repo itu  yang harus menyelesaikan konflik tersebut dengan cara memilih akan menggunakan isi yang mana pada beberapa baris tersebut.
 >> - Setelahnya barulah branch tersebut bisa dimerge.
->> - Terakhir, branch yang telah kita merge bisa kita hapus pada posisi sebelumnya. Sehingga nanti yang tersisa kembali hanya main branch saja.
+>> - Terakhir, branch yang telah kita merge bisa dihapus pada posisi sebelumnya. Sehingga nanti yang tersisa kembali hanya main branch saja.
