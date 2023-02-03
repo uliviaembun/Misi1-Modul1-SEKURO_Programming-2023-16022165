@@ -20,7 +20,7 @@
 >> ![Commit](https://github.com/uliviaembun/Photos/blob/main/Screenshot%20(308).png)
 >
 >>### **Melihat History**
->> - Kita bisa lihat list commit yang sudah dilakukan.
+>> - Kita bisa lihat list commit yang sudah dilakukan serta siapa dan kapan yang telah melakukannya.
 >> ![List Commit](https://github.com/uliviaembun/Photos/blob/main/Screenshot%20(309).png)
 >> - Jika ingin melihat perubahan apa yang telah dilakukan, kita bisa klik isi commitnya.
 >> ![Isi Commit](https://github.com/uliviaembun/Photos/blob/main/Screenshot%20(312).png)
