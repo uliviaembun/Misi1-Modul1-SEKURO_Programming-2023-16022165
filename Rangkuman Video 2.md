@@ -18,5 +18,11 @@
 >> - Lalu kita bisa langsung ketik manual isi file pada box di bawahnya.
 >> - Tiap selesai melakukan editing pada isi file, kita terhitung telah melakukan sebuah commit, maka dari itu kita harus tuliskan judul commit dan deskripsinya sebelum menyimpan perubahan file tersebut.
 >> ![Commit](https://github.com/uliviaembun/Photos/blob/main/Screenshot%20(308).png)
-
+>
+>>### **Melihat History**
+>> - Kita bisa lihat list commit yang sudah dilakukan.
+>> ![List Commit](https://github.com/uliviaembun/Photos/blob/main/Screenshot%20(309).png)
+>> - Jika ingin melihat perubahan apa yang telah dilakukan, kita bisa klik isi commitnya.
+>> ![Isi Commit](https://github.com/uliviaembun/Photos/blob/main/Screenshot%20(312).png)
+>> - Line berwarna merah adalah line yang dihapus, sedangkan yang hijau merupakan line yang ditambahkan.
 
