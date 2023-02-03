@@ -2,5 +2,5 @@
 >## **Bekerja dengan GitHub**
 
 >>## **Create Repo**
->>![](C:/Users/ASUS/Pictures/Screenshots/Screenshot (306).png)
->>Kita bisa mengisi judul repo, pulic/private, 
+>> ![](Users/ASUS/Pictures/Screenshots/Screenshot (306).png)
+>> Kita bisa mengisi judul repo, pulic/private, 
