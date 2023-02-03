@@ -17,3 +17,13 @@
 >> ![Buat Branch-2](https://github.com/uliviaembun/Photos/blob/main/Screenshot%20(319).png)
 >> - Setelahnya bisa kita lihat lagi di bagian insight lalu ke network. Di situ tampak sebuah branch baru bernama "Rencana-2".
 >> ![Tampilan Branch 2](https://github.com/uliviaembun/Photos/blob/main/Screenshot%20(320).png)
+>
+>>### **Merging Branch**
+>> Merge adalah menggabungkan/memasukan branch ke dalam main branch (line utama). Dilakukan jika merasa rencana yang dibuat pada branch tadi memang cocok dan fix akan dimasukkan ke dalam projek yang kita buat.
+>> Cara melakukan merge:
+>> - Kita bisa klik "3 branch" untuk melihat daftar branch yang kita punya pada repo itu.
+>> ![Merge-1](https://github.com/uliviaembun/Photos/blob/main/Screenshot%20(321).png)
+>> - Lalu pilih branch mana yang ingin dimasukkan ke dalam main branch (line utama) dengan mengeklik "new pull request"
+>> ![Merge-2](https://github.com/uliviaembun/Photos/blob/main/Screenshot%20(322).png)
+>> - Setelahnya kita dapat melihat bahwa branch Rencana-1 akan dimasukkan ke dalam main branch. Namun sebelum kita melakukan merge, pastikan bahwa branch tersebut memang bisa kita gabungkan ke main branch, jika bisa maka akan terdapat ceklist berwarna hijau dengan tulisan "able to merge".
+>> ![Merge-3](https://github.com/uliviaembun/Photos/blob/main/Screenshot%20(323).png)
