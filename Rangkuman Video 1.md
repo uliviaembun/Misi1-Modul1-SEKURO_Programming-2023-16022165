@@ -5,13 +5,13 @@
 >> Sistem yang menyimpan & mengelola rekaman perubahan dari source code.
 >
 >>### **Git**
->>Salah satu software yang bisa melakukan *VCS*.
+>>Salah satu software/aplikasi yang bisa melakukan *VCS*.
 >
 >>### **GitHub**
 >>Website untuk mengelola project Git.
 >
 >>### **Istilah Git**
->>- **Repo** = Folder project kita.
+>>- **Repository/repo** = Folder project kita.
 >>- **Commit** = Rekaman dari repo kita.
 >>- **Hash** = Penanda/kode unik untuk tiap commit.
 >>- **Checkout** = Berpindah ke sebuah commit.
@@ -21,3 +21,7 @@
 >>- **Clone** = Mengambil repo dari remote.
 >>- **Push** = Mengirimkan commit ke repo.
 >>- **Pull** = Mengambil commit dari repo.
+>
+>>### **Notes Tambahan**
+>> 1. Git dan Github bisa dijalankan secara terpisah, tetapi akan sangat membantu apabila dijalankan bersamaan.
+>> 2. 
