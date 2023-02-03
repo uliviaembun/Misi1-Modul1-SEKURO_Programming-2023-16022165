@@ -25,5 +25,5 @@
 >> ![Merge-1](https://github.com/uliviaembun/Photos/blob/main/Screenshot%20(321).png)
 >> - Lalu pilih branch mana yang ingin dimasukkan ke dalam main branch (line utama) dengan mengeklik "new pull request"
 >> ![Merge-2](https://github.com/uliviaembun/Photos/blob/main/Screenshot%20(322).png)
->> - Setelahnya kita dapat melihat bahwa branch Rencana-1 akan dimasukkan ke dalam main branch. Namun sebelum kita melakukan merge, pastikan bahwa branch tersebut memang bisa kita gabungkan ke main branch, jika bisa maka akan terdapat ceklist berwarna hijau dengan tulisan "able to merge".
+>> - Setelahnya kita dapat melihat bahwa branch Rencana-1 akan dimasukkan ke dalam main branch. Namun sebelum kita melakukan merge, pastikan bahwa branch tersebut memang bisa kita gabungkan ke main branch, jika bisa maka akan terdapat ceklist berwarna hijau dengan tulisan "able to merge". Jika sudah baru kita bisa klik "create pull request".
 >> ![Merge-3](https://github.com/uliviaembun/Photos/blob/main/Screenshot%20(323).png)
