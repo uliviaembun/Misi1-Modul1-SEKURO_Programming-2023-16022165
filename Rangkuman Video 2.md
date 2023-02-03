@@ -2,5 +2,5 @@
 >## **Bekerja dengan GitHub**
 
 >>## **Create Repo**
->> ![](https://drive.google.com/file/d/1FcxUsbAoF8F1ma1cRHz-ikfdG7Hn_mgb/view?usp=share_link)
+>> ![](https://github.com/uliviaembun/Photos/blob/main/Screenshot%20(306).png)
 >> Kita bisa mengisi judul repo, pulic/private, 
