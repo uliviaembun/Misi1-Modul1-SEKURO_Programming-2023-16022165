@@ -24,4 +24,5 @@
 >
 >>### **Notes Tambahan**
 >> 1. Git dan Github bisa dijalankan secara terpisah, tetapi akan sangat membantu apabila dijalankan bersamaan.
->> 2. 
+>> 2. Jenis VCS selain Git ada Subversion, Mercurial, dan CVS.
+>> 3. Jenis Web Git selain GitHub ada Bitbucket dan GitLab.
