@@ -25,4 +25,7 @@
 >> - Jika ingin melihat perubahan apa yang telah dilakukan, kita bisa klik isi commitnya.
 >> ![Isi Commit](https://github.com/uliviaembun/Photos/blob/main/Screenshot%20(312).png)
 >> - Line berwarna merah adalah line yang dihapus, sedangkan yang hijau merupakan line yang ditambahkan.
+>> - Selain itu, ada cara lain untuk melihat commit yaitu bisa dengan klik bagian insight lalu ke network.
+>> ![Line Commit](https://github.com/uliviaembun/Photos/blob/main/Screenshot%20(313).png)
+>> - Kita bisa melihat line dengan bulatan bulatan mendatar, dimana itu menggambarkan progress dari commit yang telah dilakukan. Jika ingin mengecek perubahan apa yang sudah dilakukan maka bisa dengan mengeklik bulatan tersebut.
 
