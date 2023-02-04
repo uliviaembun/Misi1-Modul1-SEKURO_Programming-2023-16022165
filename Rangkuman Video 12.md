@@ -1,7 +1,7 @@
 ># **Video 12**
 >## **Gitignore**
 >
->> Sebuah file untuk menyimpan list file maupun folder yang tidak ingin kita add ke staging area. Karena ketika kita melakukan perintah "git add ." maka semua file akan ikut, tetapi mungkin saja kita ingin tidak mengikutsertakan beberapa file maupun folder yang ada.
+>> Sebuah file untuk menyimpan list file maupun folder yang tidak ingin kita add ke staging area. Karena ketika kita melakukan perintah "git add ." maka semua file akan ikut masuk, tetapi mungkin saja kita ingin tidak mengikutsertakan beberapa file maupun folder yang ada.
 >
 >>### **Cara Menggunakan Gitignore**
 >> 1. Kita buat 2 file baru yaitu file-6 dan file coba, tetapi kita tidak ingin file coba ikut masuk ke staging area. Maka dari itu kita buat 1 file lagi bernama ".gitignore" yang fungsinya untuk menaruh list file yang tidak ingin kita ikutsertakan.
